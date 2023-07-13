@@ -1,4 +1,3 @@
-[![DigitalWhisper Logo](https://user-images.githubusercontent.com/8832013/101477937-9be03700-3958-11eb-9a23-ac8732b7c4c4.png)](https://www.digitalwhisper.co.il)
 # DWScraper
 
 A Python web-scraper for downloading [DigitalWhisper](https://www.digitalwhisper.co.il) issues and articles.  
